@@ -1,3 +1,6 @@
+![logo-dark](./oden-dark.png#gh-dark-mode-only)
+![logo-light](./oden-light.png#gh-light-mode-only)
+
 # Oden development
 
 ## Pre reqs
