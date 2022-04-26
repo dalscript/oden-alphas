@@ -1,5 +1,5 @@
-![logo-dark](./oden-dark.png#gh-dark-mode-only)
-![logo-light](./oden-light.png#gh-light-mode-only)
+![logo-dark](./public/oden-dark.png#gh-dark-mode-only)
+![logo-light](./public/oden-light.png#gh-light-mode-only)
 
 # Oden development
 
