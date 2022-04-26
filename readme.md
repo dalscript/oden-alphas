@@ -38,4 +38,4 @@
 - cargo build -r --target x86_64-unknown-linux-gnu
 
 3. zip each `oden` as `oden-[arch].zip`
-4. create a new release in github with those zips: https://github.com/dalscript/oden-alphas/releases
+4. create a new release in github with those zips: https://github.com/odenlang/oden-alphas/releases
